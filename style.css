@@ -1,0 +1,108 @@
+css
+h1
+{
+	color: purple;	
+}
+header
+{
+	background-color: white
+
+}
+.extra
+{
+	color: black;
+}
+body
+{
+	background-color: blue;
+	color: white;
+
+}
+.lastname
+{
+	margin-left: 73px;
+	margin-top: 20px;
+}
+.firstname
+{
+	margin-left: 70px;
+	margin-top: 20px;
+}
+.choice
+{
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.email
+{
+	margin-left:90px;
+	margin-top: 20px;
+}
+.number
+{
+	margin-left: 32px;
+	margin-top:20px;
+}
+.gender
+{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.address
+{
+	margin-top: 20px;
+}
+.textbox
+{
+	margin-left: 167px;
+	margin-top: -28px;
+	font-size: 20px;
+}
+.city
+{
+	margin-top:20px;
+	margin-left: 125px;
+}
+.pincode
+{
+	margin-top: 20px;
+	margin-left: 93px;
+}
+.state
+{
+	margin-top: 20px;
+	margin-left: 115px;
+}
+.country
+{
+	margin-top:20px;
+	margin-left:86px;
+}
+.hobbies
+{
+	margin-left: 95px;
+	margin-top:20px;
+}
+.table
+{
+	margin-top:-35px;
+	margin-left: 160px;
+}
+.qua
+{
+	margin-top: 40px;
+}
+.course
+{
+	margin-left: 70px;
+	margin-top: 20px;
+}
+.submit
+{
+	margin-top: 20px;
+}
+.thank
+{
+	color: green
+	background-color:white;
+}
